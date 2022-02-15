@@ -30,7 +30,7 @@ Research Positions
 ======
 * <b>PostDoc @ Central European Institute of Technology ([CEITEC](https://www.ceitec.eu))</b> (2020 - 2022) <br />
   Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" height="12"> <br />
-  Project: “Postdoc2@MUNI” (No. CZ.02.2.69/0.0/0.0/18_053/0016952)
+  Project: Postdoc2@MUNI (No. CZ.02.2.69/0.0/0.0/18_053/0016952)
 
 * <b>PostDoc @ The Mærsk Mc-Kinney Møller Institute ([MMMI](https://www.sdu.dk/en/mmmi))</b> (2018 - 2020) <br />
   University of Southern Denmark (SDU), Odense, Denmark <img src="../flags/dk.png" height="12"> <br />
