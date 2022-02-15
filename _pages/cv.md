@@ -12,19 +12,19 @@ redirect_from:
 Education
 ======
 * <b>Ph.D. in Image Processing</b>, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" height="12">, (2010 - 2015) <br />
-  Doctoral thesis title: <i>Texture-Based Image Description in Fluorescence Microscopy</i> [PDF](https://is.muni.cz/th/dcxrf/thesis.pdf)
+  Doctoral thesis title: <i>Texture-Based Image Description in Fluorescence Microscopy</i> ([PDF](https://is.muni.cz/th/dcxrf/thesis.pdf))
   
 * <b>Master in Finance</b>, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" height="12">, (2010 - 2012) <br />
-  Master thesis title: The Use of Electronic Signature in Banking [PDF in Slovak](https://is.muni.cz/th/t7oiw/DP.pdf)
+  Master thesis title: <i>The Use of Electronic Signature in Banking </i> ([PDF in Slovak](https://is.muni.cz/th/t7oiw/DP.pdf))
   
 * <b>Master in Applied Informatics</b>, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" height="12">, (2008 - 2010) <br />
-  Master thesis title: Image Data Compression [PDF in Slovak](https://is.muni.cz/th/ohoal/dp.pdf)
+  Master thesis title: <i>Image Data Compression</i> ([PDF in Slovak](https://is.muni.cz/th/ohoal/dp.pdf))
   
 * <b>Bachelor in Study of Religions</b>, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" height="12">, (2014 - 2017) <br />
-  Bachelor thesis title: The Concept of Buddhist Economics from the Study of Religions View [PDF in Slovak](https://is.muni.cz/th/ojtm5/Bc.pdf)
+  Bachelor thesis title: <i>The Concept of Buddhist Economics from the Study of Religions View</i> ([PDF in Slovak](https://is.muni.cz/th/ojtm5/Bc.pdf))
   
 * <b>Bachelor in Applied Informatics</b>, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" height="12">, (2005 - 2008) <br />
-  Bachelor thesis title: Algorithms for Similarity Query Evaluation [PDF in Slovak](https://is.muni.cz/th/iln9y/Bc.pdf)
+  Bachelor thesis title: <i>Algorithms for Similarity Query Evaluation</i> ([PDF in Slovak](https://is.muni.cz/th/iln9y/Bc.pdf))
 
 Research Positions
 ======
