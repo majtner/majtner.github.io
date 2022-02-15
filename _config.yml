@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Brno, Czech Republic"
-  employer         : "CEITEC"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=KcUL5tsAAAAJ"
   email            : "majtner.tom@gmail.com"
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
