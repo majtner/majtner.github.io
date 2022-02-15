@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* <b>Ph.D. in Image Processing</b>, Masaryk University, Brno, Czech Republic ![cz](./flags/cz.png), 2015 <br />
+* <b>Ph.D. in Image Processing</b>, Masaryk University, Brno, Czech Republic ![cz](../../../flags/cz.png), 2015 <br />
   Doctoral thesis title: Texture-Based Image Description in Fluorescence Microscopy [PDF](https://is.muni.cz/th/dcxrf/thesis.pdf)
   
 * <b>Master in Finance</b>, Masaryk University, Brno, Czech Republic, 2012 <br />
