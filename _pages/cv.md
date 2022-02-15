@@ -37,16 +37,16 @@ Research Positions
   Project: EFFICACY – An effective colorectal cancer-screening program based on novel dual-mode wireless endoscopic capsules
 
 * <b>PostDoc @ Biocomputing Unit of Spanish National Centre for Biotechnology [CNB](http://biocomputingunit.es)</b> (2017 - 2018) <br />
-  * Spanish National Research Council (CSIC), Madrid, Spain <img src="../flags/es.png" height="12"> <br />
-  * Project: H2020-WEST-LIFE-675858 – West life: World-wide E-infrastructure for structural biology
+  Spanish National Research Council (CSIC), Madrid, Spain <img src="../flags/es.png" height="12"> <br />
+  Project: H2020-WEST-LIFE-675858 – West life: World-wide E-infrastructure for structural biology
   
 * <b>PostDoc @ Norwegian Colour and Visual Computing Laboratory [Colourlab](http://colorlab.no)</b> (2016 - 2017) <br />
-  * Norwegian University of Science and Technology (NTNU), Gjøvik, Norway <img src="../flags/no.png" height="12"> <br />
-  * Project: IQ-MED: Image Quality enhancement in MEDical diagnosis, monitoring and treatment
+  Norwegian University of Science and Technology (NTNU), Gjøvik, Norway <img src="../flags/no.png" height="12"> <br />
+  Project: IQ-MED: Image Quality enhancement in MEDical diagnosis, monitoring and treatment
 
 * <b>Doctoral @ Centre for Biomedical Image Analysis [CBIA](https://cbia.fi.muni.cz/)</b> (2010 - 2015) <br />
-  * Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" height="12"> <br />
-  * Projects: GBP302/12/G157 – Dynamics and Organization of Chromosomes in the Cell Cycle and during Differentiation under Normal and Pathological Conditions <br />GA14-22461S – Development and Study of Methods for Live Cell Quantification
+  Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" height="12"> <br />
+  Projects: GBP302/12/G157 – Dynamics and Organization of Chromosomes in the Cell Cycle and during Differentiation under Normal and Pathological Conditions <br />GA14-22461S – Development and Study of Methods for Live Cell Quantification
   
 Skills
 ======
