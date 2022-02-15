@@ -28,7 +28,7 @@ Education
 
 Research Positions
 ======
-* <b>PostDoc @ Central European Institute of Technology ([CEITEC])(https://www.ceitec.eu)</b> (2020 - 2022) <br />
+* <b>PostDoc @ Central European Institute of Technology ([CEITEC](https://www.ceitec.eu))</b> (2020 - 2022) <br />
   Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" height="12"> <br />
   Project: “Postdoc2@MUNI” (No. CZ.02.2.69/0.0/0.0/18_053/0016952)
 
