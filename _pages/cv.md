@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Image Processing, Masaryk University, Brno, Czech Republic, 2015
+* Ph.D. in Image Processing, Masaryk University, Brno, Czech Republic, 2015 <br />
   Doctoral thesis title: Texture-Based Image Description in Fluorescence Microscopy [PDF](https://is.muni.cz/th/dcxrf/thesis.pdf)
   
-* Master in Finance, Masaryk University, Brno, Czech Republic, 2012
+* Master in Finance, Masaryk University, Brno, Czech Republic, 2012 <br />
   Master thesis title: The Use of Electronic Signature in Banking [PDF in Slovak](https://is.muni.cz/th/t7oiw/DP.pdf)
   
-* Master in Applied Informatics, Masaryk University, Brno, Czech Republic, 2010
+* Master in Applied Informatics, Masaryk University, Brno, Czech Republic, 2010 <br />
   Master thesis title: Image Data Compression [PDF in Slovak](https://is.muni.cz/th/ohoal/dp.pdf)
   
-* Bachelor in Study of Religions, Masaryk University, Brno, Czech Republic, 2017
+* Bachelor in Study of Religions, Masaryk University, Brno, Czech Republic, 2017 <br />
   Bachelor thesis title: The Concept of Buddhist Economics from the Study of Religions View [PDF in Slovak](https://is.muni.cz/th/ojtm5/Bc.pdf)
   
-* Bachelor in Applied Informatics, Masaryk University, Brno, Czech Republic, 2008
+* Bachelor in Applied Informatics, Masaryk University, Brno, Czech Republic, 2008 <br />
   Bachelor thesis title: Algorithms for Similarity Query Evaluation [PDF in Slovak](https://is.muni.cz/th/iln9y/Bc.pdf)
 
 Work experience
