@@ -33,7 +33,7 @@ Research Positions
   Project: “Postdoc2@MUNI” (No. CZ.02.2.69/0.0/0.0/18_053/0016952)
 
 * <b>PostDoc @ The Mærsk Mc-Kinney Møller Institute [MMMI](https://www.sdu.dk/en/mmmi)</b> (2018 - 2020) <br />
-  University of Southern Denmark (SDU), Odense, Denmark <img src="../flags/de.png" height="12"> <br />
+  University of Southern Denmark (SDU), Odense, Denmark <img src="../flags/dk.png" height="12"> <br />
   Project: EFFICACY – An effective colorectal cancer-screening program based on novel dual-mode wireless endoscopic capsules
 
 * <b>PostDoc @ Biocomputing Unit of Spanish National Centre for Biotechnology [CNB](http://biocomputingunit.es)</b> (2017 - 2018) <br />
