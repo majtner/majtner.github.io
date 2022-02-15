@@ -11,9 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Image Processing, Masaryk University, Brno, Czech Republic, 2015
+  Doctoral thesis title: Texture-Based Image Description in Fluorescence Microscopy [PDF](https://is.muni.cz/th/dcxrf/thesis.pdf)
+  
+* Master in Finance, Masaryk University, Brno, Czech Republic, 2012
+  Master thesis title: The Use of Electronic Signature in Banking [PDF in Slovak](https://is.muni.cz/th/t7oiw/DP.pdf)
+  
+* Master in Applied Informatics, Masaryk University, Brno, Czech Republic, 2010
+  Master thesis title: Image Data Compression [PDF in Slovak](https://is.muni.cz/th/ohoal/dp.pdf)
+  
+* Bachelor in Study of Religions, Masaryk University, Brno, Czech Republic, 2017
+  Bachelor thesis title: The Concept of Buddhist Economics from the Study of Religions View [PDF in Slovak](https://is.muni.cz/th/ojtm5/Bc.pdf)
+  
+* Bachelor in Applied Informatics, Masaryk University, Brno, Czech Republic, 2008
+  Bachelor thesis title: Algorithms for Similarity Query Evaluation [PDF in Slovak](https://is.muni.cz/th/iln9y/Bc.pdf)
 
 Work experience
 ======
@@ -41,19 +52,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
