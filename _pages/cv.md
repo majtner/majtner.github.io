@@ -55,11 +55,11 @@ Research Positions
 
 Short Term Research Stays
 ======
-* <b>[STSM grant](http://eubias.org/NEUBIAS/mobility-grants/) @ Faculty of Technical Sciences [FTN](http://www.ftn.uns.ac.rs/n1386094394/faculty-of-technical-sciences) </b> (2 weeks in 2019) <br />
+* <b>([STSM grant](http://eubias.org/NEUBIAS/mobility-grants/)) @ Faculty of Technical Sciences ([FTN](http://www.ftn.uns.ac.rs/n1386094394/faculty-of-technical-sciences)) </b> (2 weeks in 2019) <br />
   University of Novi Sad, Novi Sad, Serbia <img src="../flags/sr.png" style="width:auto;height:15px;" /> <br />
   Project: <i>Development and evaluation of 𝛼𝐿𝐵𝑃 − 𝑚𝑎𝑝𝑠 for improved classification in biomedical domain</i>
   
-* <b>[Erasmus Research Internship](https://is.muni.cz/www/172786/certificates/2013_Birmingham.pdf) @ Digital Media Technology [DMT](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/digital-technology/) Lab </b> (5 months in 2013) <br />
+* <b>([Erasmus Research Internship](https://is.muni.cz/www/172786/certificates/2013_Birmingham.pdf)) @ Digital Media Technology ([DMT](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/digital-technology/)) Lab </b> (5 months in 2013) <br />
   Birmingham City University, Birmingham, United Kingdom <img src="../flags/uk.png" style="width:auto;height:15px;" /> <br />
   Project: <i>The Analysis of CT Scans Through Hough Transform</i>
   
