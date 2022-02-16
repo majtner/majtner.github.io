@@ -17,19 +17,19 @@ Education
   
 * <b>Master in Finance</b> (2010 - 2012) <br /> 
   Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Master thesis title: <i>[The Use of Electronic Signature in Banking](https://is.muni.cz/th/t7oiw/DP.pdf) (in Slovak)</i>
+  Master thesis title: <i>[The Use of Electronic Signature in Banking](https://is.muni.cz/th/t7oiw/DP.pdf)</i> (in Slovak)
   
 * <b>Master in Applied Informatics</b> (2008 - 2010) <br /> 
   Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Master thesis title: <i>Image Data Compression</i> ([PDF in Slovak](https://is.muni.cz/th/ohoal/dp.pdf))
+  Master thesis title: <i>[Image Data Compression](https://is.muni.cz/th/ohoal/dp.pdf)</i> (in Slovak)
   
 * <b>Bachelor in Study of Religions</b> (2014 - 2017) <br />
   Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Bachelor thesis title: <i>The Concept of Buddhist Economics from the Study of Religions View</i> ([PDF in Slovak](https://is.muni.cz/th/ojtm5/Bc.pdf))
+  Bachelor thesis title: <i>[The Concept of Buddhist Economics from the Study of Religions View](https://is.muni.cz/th/ojtm5/Bc.pdf)</i> (in Slovak)
   
 * <b>Bachelor in Applied Informatics</b> (2005 - 2008) <br /> 
   Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Bachelor thesis title: <i>Algorithms for Similarity Query Evaluation</i> ([PDF in Slovak](https://is.muni.cz/th/iln9y/Bc.pdf))
+  Bachelor thesis title: <i>[Algorithms for Similarity Query Evaluation](https://is.muni.cz/th/iln9y/Bc.pdf)</i> (in Slovak)
 
 Research Positions
 ======
