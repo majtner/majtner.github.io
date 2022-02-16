@@ -115,10 +115,3 @@ Language Skills
 * <b>English</b>: fluent, active - C1 (CEFR rank) <br />
 * <b>German</b>: intermediate, passive - A2-B1 (CEFR rank) <br />
 * <b>Danish</b>: intermediate, passive - A2-B1 (CEFR rank)
-
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
