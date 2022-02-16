@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-(* denotes equal contribution)
+(★ denotes equal contribution)
 
 
 Journal Publications
@@ -16,7 +16,7 @@ Journal Publications
 
 * (J12) E. S. Nadimi, <b>T. Majtner</b>, K. B. Yderstræde, V. Blanes-Vidal. [Facial Erythema Detects Diabetic Neuropathy Using the Fusion of Machine Learning, Random Matrix Theory and Self Organized Criticality](https://www.nature.com/articles/s41598-020-73744-3). <i>Scientific Reports</i>, Vol. 10, October 2020, Article 16785, Nature Publishing Group.
 
-* (J11) B. Bajić*, <b>T. Majtner*</b>, J. Lindblad, N. Sladoje. [Generalized Deep Learning Framework for HEp-2 Image Cell Recognition](https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.0705). <i>IET Image Proccesing</i>, Vol. 14, No. 6, May 2020, pp. 1201–1208, IET.
+* (J11) B. Bajić★, <b>T. Majtner★</b>, J. Lindblad, N. Sladoje. [Generalized Deep Learning Framework for HEp-2 Image Cell Recognition](https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.0705). <i>IET Image Proccesing</i>, Vol. 14, No. 6, May 2020, pp. 1201–1208, IET.
 
 * (J10) D. Maluenda, <b>T. Majtner</b>, P. Horvath, J. L. Vilas, A. Jiménez-Moreno, J. Mota, E. Ramírez-Aportela, R. Sánchez-García, P. Conesa, L. del Caño, Y. Rancel, Y. Fonseca, M. Martínez, G. Sharov, C. A. García, D. Střelák, R. Melero, R. Marabini, J. M. Carazo, C. O. S. Sorzano. [Flexible workflows for on-the-fly electron microscopy single-particle image processing using Scipion](https://journals.iucr.org/d/issues/2019/10/00/ic5108/index.html). <i>Acta Crystallographica Section D</i>, Vol. 75, No. 10, October 2019, pp. 882–894, IUCr.
 
