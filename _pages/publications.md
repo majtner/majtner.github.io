@@ -60,7 +60,7 @@ Conference Publications
 
 * (C4) <b>T. Majtner</b>, D. Svoboda. [Texture Analysis Using 3D Gabor Features and 3D MPEG-7 Edge Histogram Descriptor in Fluorescence Microscopy](http://ieeexplore.ieee.org/document/7032576/). <i>4th International Conference on 3D Imaging (IC3D 2014)</i>, pp. 1–7, IEEE.
 
-* (C3) <b>T. Majtner*</b>, R. Stoklasa*, D. Svoboda. [RSurf – The Efficient Texture-based Descriptor for Fluorescence Microscopy Images of HEp-2 Cells](http://ieeexplore.ieee.org/document/6976925/). <i>22nd International Conference on Pattern Recognition (ICPR 2014)</i>, pp. 1194–1199, IEEE.
+* (C3) <b>T. Majtner</b>*, R. Stoklasa*, D. Svoboda. [RSurf – The Efficient Texture-based Descriptor for Fluorescence Microscopy Images of HEp-2 Cells](http://ieeexplore.ieee.org/document/6976925/). <i>22nd International Conference on Pattern Recognition (ICPR 2014)</i>, pp. 1194–1199, IEEE.
 
 * (C2) <b>T. Majtner</b>, D. Svoboda. [Comparison of 3D Texture-based Image Descriptors in Fluorescence Microscopy](https://link.springer.com/chapter/10.1007/978-3-319-07148-0_17). <i>16th International Workshop on Combinatorial Image Analysis (IWCIA 2014)</i>, LNCS 8466, pp. 186–195, Springer.
 
@@ -69,4 +69,4 @@ Conference Publications
 Non Peer-Reviewed Publications
 =
 
-* (N1) <b>T. Majtner*</b>, B. Bajić*, S. Yildirim, J. Y. Hardeberg, J. Lindblad, N. Sladoje. [Ensemble of Convolutional Neural Networks for Dermoscopic Images Classification](https://arxiv.org/abs/1808.05071). <i>arXiv preprint arXiv:1808.05071</i>.
+* (N1) <b>T. Majtner</b>*, B. Bajić*, S. Yildirim, J. Y. Hardeberg, J. Lindblad, N. Sladoje. [Ensemble of Convolutional Neural Networks for Dermoscopic Images Classification](https://arxiv.org/abs/1808.05071). <i>arXiv preprint arXiv:1808.05071</i>.
