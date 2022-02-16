@@ -13,11 +13,11 @@ Education
 ======
 * <b>Ph.D. in Image Processing</b> (2010 - 2015) <br /> 
   Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Doctoral thesis title: <i>[Texture-Based Image Description in Fluorescence Microscopy](https://is.muni.cz/th/dcxrf/thesis.pdf))</i>
+  Doctoral thesis title: <i>[Texture-Based Image Description in Fluorescence Microscopy](https://is.muni.cz/th/dcxrf/thesis.pdf)</i>
   
 * <b>Master in Finance</b> (2010 - 2012) <br /> 
   Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Master thesis title: <i>The Use of Electronic Signature in Banking </i> ([PDF in Slovak](https://is.muni.cz/th/t7oiw/DP.pdf))
+  Master thesis title: <i>[The Use of Electronic Signature in Banking](https://is.muni.cz/th/t7oiw/DP.pdf) (in Slovak)</i>
   
 * <b>Master in Applied Informatics</b> (2008 - 2010) <br /> 
   Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
