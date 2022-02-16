@@ -100,7 +100,22 @@ Participations
 
 * <b>Advanced Methods on Biomedical Image Analysis</b> ([AMBIA 2011](https://ambia.fi.muni.cz/2011/)), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   <i>Poster presentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2011_AMBIA.pdf))
-  
+
+
+Technical Skills
+======
+* <b>Active knowledge</b>: MATLAB, LaTeX, C/C++ <br />
+* <b>Basic knowledge</b>: C#, XML, SQL, Javascript, Python
+
+
+Language Skills
+======
+* <b>Slovak</b>: mother tongue <br />
+* <b>Czech</b>: fluent, active - C2 (CEFR rank) <br />
+* <b>English</b>: fluent, active - C1 (CEFR rank) <br />
+* <b>German</b>: intermediate, passive - A2-B1 (CEFR rank) <br />
+* <b>Danish</b>: intermediate, passive - A2-B1 (CEFR rank)
+
 
 Publications
 ======
