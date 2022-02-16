@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 
 Education
 ======
@@ -31,6 +32,7 @@ Education
   Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Bachelor thesis title: <i>[Algorithms for Similarity Query Evaluation](https://is.muni.cz/th/iln9y/Bc.pdf)</i> (in Slovak)
 
+
 Research Positions
 ======
 * <b>PostDoc @ Central European Institute of Technology ([CEITEC](https://www.ceitec.eu))</b> (2020 - 2022) <br />
@@ -53,6 +55,7 @@ Research Positions
   Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Projects: <i>GBP302/12/G157 – Dynamics and Organization of Chromosomes in the Cell Cycle and during Differentiation under Normal and Pathological Conditions <br />GA14-22461S – Development and Study of Methods for Live Cell Quantification</i>
 
+
 Short Term Research Stays
 ======
 * <b>([STSM grant](http://eubias.org/NEUBIAS/mobility-grants/)) @ Faculty of Technical Sciences ([FTN](http://www.ftn.uns.ac.rs/n1386094394/faculty-of-technical-sciences)) </b> (2 weeks in 2019) <br />
@@ -62,6 +65,7 @@ Short Term Research Stays
 * <b>([Erasmus Research Internship](https://is.muni.cz/www/172786/certificates/2013_Birmingham.pdf)) @ Digital Media Technology ([DMT](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/digital-technology/)) Lab </b> (5 months in 2013) <br />
   Birmingham City University, Birmingham, United Kingdom <img src="../flags/uk.png" style="width:auto;height:15px;" /> <br />
   Project: <i>The Analysis of CT Scans Through Hough Transform</i>
+  
   
 Other Work Activities
 ======
@@ -73,27 +77,29 @@ Other Work Activities
   Institute of Computer Science, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Project: <i>Development of Masaryk University web presentation</i> (part time)
   
+  
 Participations
 ======
-* <b>The 3rd NEUBIAS Conference</b> ([NEUBIAS](http://eubias.org/NEUBIAS/neubias2020-conference/luxembourg-2019/)) (2019) <br /> 
-  Luxembourg city, Luxembourg <img src="../flags/lu.png" style="width:auto;height:15px;" /> <br /> 
+* <b>The 3rd NEUBIAS Conference</b> ([NEUBIAS](http://eubias.org/NEUBIAS/neubias2020-conference/luxembourg-2019/)), Luxembourg city, Luxembourg <img src="../flags/lu.png" style="width:auto;height:15px;" /> <br /> 
   <i>Poster presentation</i>
   
-* <b>International Computer Vision Summer School</b> ([ICVSS 2016](http://iplab.dmi.unict.it/icvss2016/)) (2016) <br /> 
-  Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <br />
+* <b>International Computer Vision Summer School</b> ([ICVSS 2016](http://iplab.dmi.unict.it/icvss2016/)), Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <br />
   <i>Passed final examination</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2016_ICVSS_exam.pdf))
   
-* <b>Summer School on Image Processing</b> ([SSIP 2015](http://www.inf.u-szeged.hu/ssip/2015/index.html/)) (2015) <br /> 
-  Szeged, Hungary <img src="../flags/hu.png" style="width:auto;height:15px;" /> <br />
+* <b>Summer School on Image Processing</b> ([SSIP 2015](http://www.inf.u-szeged.hu/ssip/2015/index.html/)), Szeged, Hungary <img src="../flags/hu.png" style="width:auto;height:15px;" /> <br />
   Project title: <i>Microglia cells segmentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2015_SSIP.pdf))
   
-* <b>Medical Imaging Summer School</b> ([MISS 2014](http://iplab.dmi.unict.it/miss14/)) (2014) <br /> 
-  Favignana, Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <br />
+* <b>Medical Imaging Summer School</b> ([MISS 2014](http://iplab.dmi.unict.it/miss14/)), Favignana, Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <br />
   <i>Poster presentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2014_MISS.pdf))
   
-* <b>Computer Vision Winter Workshop</b> ([CVWW 2014](http://cmp.felk.cvut.cz/cvww2014/)) (2014) <br /> 
-  Křtiny, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
+* <b>Computer Vision Winter Workshop</b> ([CVWW 2014](http://cmp.felk.cvut.cz/cvww2014/)), Křtiny, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   <i>Poster presentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2014_CVWW.pdf))
+  
+* <b>Image Acquisition and Processing in Biomedical Microscopy</b>, Czech Academy of Sciences, Prague, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> (2011)
+
+* <b>Advanced Methods on Biomedical Image Analysis</b> ([AMBIA 2011](https://ambia.fi.muni.cz/2011/)), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" />
+  <i>Poster presentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2011_AMBIA.pdf))
+  
 
 Publications
 ======
