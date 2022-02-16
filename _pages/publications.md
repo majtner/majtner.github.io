@@ -69,4 +69,4 @@ Conference Publications
 Non Peer-Reviewed Publications
 =
 
-* (N1) <b>T. Majtner*</b>, B. Bajić*, S. Yildirim, J. Y. Hardeberg, J. Lindblad, N. Sladoje. [Ensemble of Convolutional Neural Networks for Dermoscopic Images Classification](https://arxiv.org/abs/1808.05071). arXiv preprint arXiv:1808.05071.
+* (N1) <b>T. Majtner*</b>, B. Bajić*, S. Yildirim, J. Y. Hardeberg, J. Lindblad, N. Sladoje. [Ensemble of Convolutional Neural Networks for Dermoscopic Images Classification](https://arxiv.org/abs/1808.05071). <i>arXiv preprint arXiv:1808.05071</i>.
