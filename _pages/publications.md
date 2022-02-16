@@ -65,3 +65,8 @@ Conference Publications
 * (C2) <b>T. Majtner</b>, D. Svoboda. [Comparison of 3D Texture-based Image Descriptors in Fluorescence Microscopy](https://link.springer.com/chapter/10.1007/978-3-319-07148-0_17). <i>16th International Workshop on Combinatorial Image Analysis (IWCIA 2014)</i>, LNCS 8466, pp. 186–195, Springer.
 
 * (C1) <b>T. Majtner</b>, D. Svoboda. [Extension of Tamura Texture Features for 3D Fluorescence Microscopy](http://ieeexplore.ieee.org/document/6375008/). <i>2nd Joint 3DIM/3DPVT Conference: 3D Imaging, Modeling, Processing, Visualization and Transmission (3DimPVT 2012)</i>, pp. 301–307, IEEE.
+
+Non Peer-Reviewed Publications
+=
+
+* (N1) <b>T. Majtner*</b>, B. Bajić*, S. Yildirim, J. Y. Hardeberg, J. Lindblad, N. Sladoje. [Ensemble of Convolutional Neural Networks for Dermoscopic Images Classification](https://arxiv.org/abs/1808.05071). arXiv preprint arXiv:1808.05071.
