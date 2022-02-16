@@ -73,7 +73,10 @@ Other Work Activities
   Institute of Computer Science, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" />
   Project: <i>Development of Masaryk University web presentation</i> (part time)
   
-  
+Participations
+======
+* <b>The 3rd NEUBIAS Conference</b> ([NEUBIAS](http://eubias.org/NEUBIAS/neubias2020-conference/luxembourg-2019/)) (2019) <br /> 
+  Luxembourg city, Luxembourg <img src="../flags/lu.png" style="width:auto;height:15px;" /> <i>Poster presentation</i>
 
 Publications
 ======
