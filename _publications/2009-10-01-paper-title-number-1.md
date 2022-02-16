@@ -1,1 +1,1 @@
-(J1) R. Stoklasa, T. Majtner, D. Svoboda. [Efficient k-NN based HEp-2 cells classifier](https://www.sciencedirect.com/science/article/pii/S0031320313003932/). <i>Pattern Recognition</i>, Vol. 47, No. 7, July 2014, pp. 2409–2418, Elsevier.
+(J1) R. Stoklasa, <b>T. Majtner</b>, D. Svoboda. [Efficient k-NN based HEp-2 cells classifier](https://www.sciencedirect.com/science/article/pii/S0031320313003932/). <i>Pattern Recognition</i>, Vol. 47, No. 7, July 2014, pp. 2409–2418, Elsevier.
