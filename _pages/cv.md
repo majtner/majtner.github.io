@@ -76,10 +76,24 @@ Other Work Activities
 Participations
 ======
 * <b>The 3rd NEUBIAS Conference</b> ([NEUBIAS](http://eubias.org/NEUBIAS/neubias2020-conference/luxembourg-2019/)) (2019) <br /> 
-  Luxembourg city, Luxembourg <img src="../flags/lu.png" style="width:auto;height:15px;" /> <i>Poster presentation</i>
+  Luxembourg city, Luxembourg <img src="../flags/lu.png" style="width:auto;height:15px;" /> <br /> 
+  <i>Poster presentation</i>
   
 * <b>International Computer Vision Summer School</b> ([ICVSS 2016](http://iplab.dmi.unict.it/icvss2016/)) (2016) <br /> 
-  Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <i>Passed final examination</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2016_ICVSS_exam.pdf/))
+  Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <br />
+  <i>Passed final examination</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2016_ICVSS_exam.pdf))
+  
+* <b>Summer School on Image Processing</b> ([SSIP 2015](http://www.inf.u-szeged.hu/ssip/2015/index.html/)) (2015) <br /> 
+  Szeged, Hungary <img src="../flags/hu.png" style="width:auto;height:15px;" /> <br />
+  Project title: <i>Microglia cells segmentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2015_SSIP.pdf))
+  
+* <b>Medical Imaging Summer School</b> ([MISS 2014](http://iplab.dmi.unict.it/miss14/)) (2014) <br /> 
+  Favignana, Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <br />
+  <i>Poster presentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2014_MISS.pdf))
+  
+* <b>Computer Vision Winter Workshop</b> ([CVWW 2014](http://cmp.felk.cvut.cz/cvww2014/)) (2014) <br /> 
+  Křtiny, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
+  <i>Poster presentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2014_CVWW.pdf))
 
 Publications
 ======
