@@ -1,6 +1,6 @@
 ---
 layout: archive
-title:
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -63,6 +63,18 @@ Short Term Research Stays
   Birmingham City University, Birmingham, United Kingdom <img src="../flags/uk.png" style="width:auto;height:15px;" /> <br />
   Project: <i>The Analysis of CT Scans Through Hough Transform</i>
   
+Other Work Activities
+======
+* <b>Teaching</b> (2011 - 2012) <br />
+  Faculty of Informatics, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" />
+  Course: <i>Introduction to Programming using C</i> (two semesters supervision of two seminar groups)
+  
+* <b>Programming</b> (2008 - 2016) <br />
+  Institute of Computer Science, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" />
+  Project: <i>Development of Masaryk University web presentation</i> (part time)
+  
+  
+
 Publications
 ======
   <ul>{% for post in site.publications %}
