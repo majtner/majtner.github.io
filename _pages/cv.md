@@ -66,17 +66,20 @@ Short Term Research Stays
 Other Work Activities
 ======
 * <b>Teaching</b> (2011 - 2012) <br />
-  Faculty of Informatics, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" />
+  Faculty of Informatics, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Course: <i>Introduction to Programming using C</i> (two semesters supervision of two seminar groups)
   
 * <b>Programming</b> (2008 - 2016) <br />
-  Institute of Computer Science, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" />
+  Institute of Computer Science, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Project: <i>Development of Masaryk University web presentation</i> (part time)
   
 Participations
 ======
 * <b>The 3rd NEUBIAS Conference</b> ([NEUBIAS](http://eubias.org/NEUBIAS/neubias2020-conference/luxembourg-2019/)) (2019) <br /> 
   Luxembourg city, Luxembourg <img src="../flags/lu.png" style="width:auto;height:15px;" /> <i>Poster presentation</i>
+  
+* <b>International Computer Vision Summer School</b> ([ICVSS 2016](http://iplab.dmi.unict.it/icvss2016/)) (2016) <br /> 
+  Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <i>Passed final examination</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2016_ICVSS_exam.pdf/))
 
 Publications
 ======
