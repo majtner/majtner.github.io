@@ -8,7 +8,7 @@ author_profile: true
 
 
 Journal Publications
-===
+=
 
 * (J14) <b>T. Majtner</b>, J. B. Brodersen, J. Herp, J. Kjeldsen, M. L. Halling, M. D. Jensen. [A Deep Learning Framework for Autonomous Detection and Classification of Crohn’s Disease Lesions in the Small Bowel and Colon with Capsule Endoscopy](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1507-4980). <i>Endoscopy International Open</i>, Vol. 9, September 2021, E1361–E1370, Thieme.
 
@@ -37,3 +37,31 @@ Journal Publications
 * (J2) C. O. S. Sorzano, E. Fernández-Giménez, V. Peredo-Robinson, J. Vargas, <b>T. Majtner</b>, G. Caffarena, J. Otón, J. L. Vilas, J. M. de la Rosa-Trevín, R. Melero, J. Gómez-Blanco, J. Cuenca, L. del Caño, P. Conesa, R. Marabini, J. M. Carazo. [Blind estimation of DED camera gain in Electron Microscopy](https://www.sciencedirect.com/science/article/pii/S1047847718300844/). <i>Journal of Structural Biology</i>, Vol. 203, No. 2, August 2018, pp. 90–93, Elsevier.
 
 * (J1) R. Stoklasa, <b>T. Majtner</b>, D. Svoboda. [Efficient k-NN based HEp-2 cells classifier](https://www.sciencedirect.com/science/article/pii/S0031320313003932/). <i>Pattern Recognition</i>, Vol. 47, No. 7, July 2014, pp. 2409–2418, Elsevier.
+
+
+Conference Publications
+=
+
+* (C12) <b>T. Majtner</b>. [HEp-2 Cell Image Recognition with Transferable Cross-Dataset Synthetic Samples](https://link.springer.com/chapter/10.1007/978-3-030-89128-2_21). <i>19th International Conference on Computer Analysis of Images and Patterns (CAIP 2021)</i>, LNCS 13052, pp. 215–225, Springer. 
+
+* (C11) <b>T. Majtner</b>, B. Bajić, J. Herp. [Texture-Based Image Transformations for Improved Deep Learning Classification](https://link.springer.com/chapter/10.1007/978-3-030-93420-0_20). <i>25th Iberoamerican Congress on Pattern Recognition (CIARP 2021)</i>, LNCS 12702, pp. 207–216, Springer.
+
+* (C10) <b>T. Majtner</b>, E. S. Nadimi. [Comparison of Deep Learning-Based Recognition Techniques for Medical and Biomedical Images](https://link.springer.com/chapter/10.1007/978-3-030-29888-3_40). <i>18th International Conference on Computer Analysis of Images and Patterns (CAIP 2019)</i>, LNCS 11678, pp. 492–504, Springer.
+
+* (C9) <b>T. Majtner</b>, B. Bajić, J. Lindblad, N. Sladoje, V. Blanes-Vidal, E. S. Nadimi. [On the Effectiveness of Generative Adversarial Networks as HEp-2 Image Augmentation Tool](https://link.springer.com/chapter/10.1007/978-3-030-20205-7_36). <i>21st Scandinavian Conference on Image Analysis (SCIA 2019)</i>, LNCS 11482, pp. 439–451, Springer.
+
+* (C8) <b>T. Majtner</b>, S. Yildirim-Yayilgan, J. Y. Hardeberg. [Combining Deep Learning and Hand-Crafted Features for Skin Lesion Classification](http://ieeexplore.ieee.org/document/7821017/). <i>6th International Conference on Image Processing Theory, Tools and Applications (IPTA 2016)</i>, pp. 1–6, IEEE.
+
+* (C7) <b>T. Majtner</b>, K. Lidayová, S. Yildirim-Yayilgan, J. Y. Hardeberg. [Improving Skin Lesion Segmentation in Dermoscopic Images by Thin Artefacts Removal Methods](http://ieeexplore.ieee.org/document/7764580/). <i>6th European Workshop on Visual Information Processing (EUVIP 2016)</i>., pp. 1–6, IEEE.
+
+* (C6) <b>T. Majtner</b>, S. Yildirim-Yayilgan, J. Y. Hardeberg. [Efficient Melanoma Detection Using Texture-Based RSurf Features](https://link.springer.com/chapter/10.1007/978-3-319-41501-7_4). <i>13th International Conference on Image Analysis and Recognition (ICIAR 2016)</i>, LNCS 9730, pp. 30–37, Springer.
+
+* (C5) R. Stoklasa*, <b>T. Majtner*</b>. [Texture Analysis of 3D Fluorescence Microscopy Images Using RSurf 3D Features](http://ieeexplore.ieee.org/document/7493484/). <i>13th International Symposium on Biomedical Imaging (ISBI 2016)</i>, pp. 1212–1216, IEEE.
+
+* (C4) <b>T. Majtner</b>, D. Svoboda. [Texture Analysis Using 3D Gabor Features and 3D MPEG-7 Edge Histogram Descriptor in Fluorescence Microscopy](http://ieeexplore.ieee.org/document/7032576/). <i>4th International Conference on 3D Imaging (IC3D 2014)</i>, pp. 1–7, IEEE.
+
+* (C3) <b>T. Majtner*</b>, R. Stoklasa*, D. Svoboda. [RSurf – The Efficient Texture-based Descriptor for Fluorescence Microscopy Images of HEp-2 Cells](http://ieeexplore.ieee.org/document/6976925/). <i>22nd International Conference on Pattern Recognition (ICPR 2014)</i>, pp. 1194–1199, IEEE.
+
+* (C2) <b>T. Majtner</b>, D. Svoboda. [Comparison of 3D Texture-based Image Descriptors in Fluorescence Microscopy](https://link.springer.com/chapter/10.1007/978-3-319-07148-0_17). <i>16th International Workshop on Combinatorial Image Analysis (IWCIA 2014)</i>, LNCS 8466, pp. 186–195, Springer.
+
+* (C1) <b>T. Majtner</b>, D. Svoboda. [Extension of Tamura Texture Features for 3D Fluorescence Microscopy](http://ieeexplore.ieee.org/document/6375008/). <i>2nd Joint 3DIM/3DPVT Conference: 3D Imaging, Modeling, Processing, Visualization and Transmission (3DimPVT 2012)</i>, pp. 301–307, IEEE.
