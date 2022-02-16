@@ -95,9 +95,10 @@ Participations
 * <b>Computer Vision Winter Workshop</b> ([CVWW 2014](http://cmp.felk.cvut.cz/cvww2014/)), Křtiny, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   <i>Poster presentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2014_CVWW.pdf))
   
-* <b>Image Acquisition and Processing in Biomedical Microscopy</b>, Czech Academy of Sciences, Prague, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> (2011)
+* <b>Image Acquisition and Processing in Biomedical Microscopy</b> (2011) <br />
+  Czech Academy of Sciences, Prague, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" />
 
-* <b>Advanced Methods on Biomedical Image Analysis</b> ([AMBIA 2011](https://ambia.fi.muni.cz/2011/)), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" />
+* <b>Advanced Methods on Biomedical Image Analysis</b> ([AMBIA 2011](https://ambia.fi.muni.cz/2011/)), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   <i>Poster presentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2011_AMBIA.pdf))
   
 
