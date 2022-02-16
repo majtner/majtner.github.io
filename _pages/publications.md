@@ -12,7 +12,7 @@ Journal Publications
 
 * (J14) <b>T. Majtner</b>, J. B. Brodersen, J. Herp, J. Kjeldsen, M. L. Halling, M. D. Jensen. [A Deep Learning Framework for Autonomous Detection and Classification of Crohn’s Disease Lesions in the Small Bowel and Colon with Capsule Endoscopy](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1507-4980). <i>Endoscopy International Open</i>, Vol. 9, September 2021, E1361–E1370, Thieme.
 
-* (J13) <b>T. Majtner<b>, E. S. Nadimi, K. B. Yderstræde, V. Blanes-Vidal. [Non-Invasive Detection of Diabetic Complications via Pattern Analysis of Temporal Facial Colour Variations](https://www.sciencedirect.com/science/article/pii/S0169260720314528). <i>Computer Methods and Programs in Biomedicine</i>, Vol. 196, November 2020, Article 105619, Elsevier.
+* (J13) <b>T. Majtner</b>, E. S. Nadimi, K. B. Yderstræde, V. Blanes-Vidal. [Non-Invasive Detection of Diabetic Complications via Pattern Analysis of Temporal Facial Colour Variations](https://www.sciencedirect.com/science/article/pii/S0169260720314528). <i>Computer Methods and Programs in Biomedicine</i>, Vol. 196, November 2020, Article 105619, Elsevier.
 
 * (J12) E. S. Nadimi, <b>T. Majtner</b>, K. B. Yderstræde, V. Blanes-Vidal. [Facial Erythema Detects Diabetic Neuropathy Using the Fusion of Machine Learning, Random Matrix Theory and Self Organized Criticality](https://www.nature.com/articles/s41598-020-73744-3). <i>Scientific Reports</i>, Vol. 10, October 2020, Article 16785, Nature Publishing Group.
 
