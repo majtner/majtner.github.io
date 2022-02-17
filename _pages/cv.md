@@ -86,7 +86,7 @@ Participations
 * <b>International Computer Vision Summer School</b> ([ICVSS 2016](http://iplab.dmi.unict.it/icvss2016/)), Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <br />
   <i>Passed final examination</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2016_ICVSS_exam.pdf))
   
-* <b>Summer School on Image Processing</b> ([SSIP 2015](http://www.inf.u-szeged.hu/ssip/2015/index.html/)), Szeged, Hungary <img src="../flags/hu.png" style="width:auto;height:15px;" /> <br />
+* <b>Summer School on Image Processing</b> ([SSIP 2015](https://www.inf.u-szeged.hu/ssip/2015/)), Szeged, Hungary <img src="../flags/hu.png" style="width:auto;height:15px;" /> <br />
   Project title: <i>Microglia cells segmentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2015_SSIP.pdf))
   
 * <b>Medical Imaging Summer School</b> ([MISS 2014](http://iplab.dmi.unict.it/miss14/)), Favignana, Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <br />
