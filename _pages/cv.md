@@ -111,7 +111,7 @@ Technical Skills
 Language Skills
 ======
 * <b>Slovak</b>: mother tongue <br />
-* <b>Czech</b>: fluent, active - C2 (CEFR rank) <br />
-* <b>English</b>: fluent, active - C1 (CEFR rank) <br />
-* <b>German</b>: intermediate, passive - A2-B1 (CEFR rank) <br />
-* <b>Danish</b>: intermediate, passive - A2-B1 (CEFR rank)
+* <b>Czech</b>: fluent, active - C2 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)) <br />
+* <b>English</b>: fluent, active - C1 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)) <br />
+* <b>German</b>: intermediate, passive - A2-B1 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)) <br />
+* <b>Danish</b>: intermediate, passive - A2-B1 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages))
