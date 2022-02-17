@@ -70,11 +70,11 @@ Short Term Research Stays
 Other Work Activities
 ======
 * <b>Teaching</b> (2011 - 2012) <br />
-  Faculty of Informatics, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
+  [Faculty of Informatics](https://www.fi.muni.cz/index.html.en), [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Course: <i>Introduction to Programming using C</i> (two semesters supervision of two seminar groups)
   
 * <b>Programming</b> (2008 - 2016) <br />
-  Institute of Computer Science, Masaryk University, Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
+  [Institute of Computer Science](https://www.ics.muni.cz/en), [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Project: <i>Development of Masaryk University web presentation</i> (part time)
   
   
