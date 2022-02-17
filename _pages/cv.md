@@ -36,34 +36,34 @@ Education
 Research Positions
 ======
 * <b>PostDoc @ Central European Institute of Technology ([CEITEC](https://www.ceitec.eu))</b> (2020 - 2022) <br />
-  Masaryk University ([MUNI](https://www.muni.cz/en)), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
+  [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Project: <i>Postdoc2@MUNI (No. CZ.02.2.69/0.0/0.0/18_053/0016952)</i>
 
 * <b>PostDoc @ The Mærsk Mc-Kinney Møller Institute ([MMMI](https://www.sdu.dk/en/mmmi))</b> (2018 - 2020) <br />
-  University of Southern Denmark ([SDU](https://www.sdu.dk/en)), Odense, Denmark <img src="../flags/dk.png" style="width:auto;height:15px;" /> <br />
+  [University of Southern Denmark](https://www.sdu.dk/en), Odense, Denmark <img src="../flags/dk.png" style="width:auto;height:15px;" /> <br />
   Project: <i>EFFICACY – An effective colorectal cancer-screening program based on novel dual-mode wireless endoscopic capsules</i>
 
 * <b>PostDoc @ [Biocomputing Unit](http://biocomputingunit.es) of Spanish National Centre for Biotechnology ([CNB](http://www.cnb.csic.es/index.php/en/))</b> (2017 - 2018) <br />
-  Spanish National Research Council ([CSIC](https://www.csic.es/en)), Madrid, Spain <img src="../flags/es.png" style="width:auto;height:15px;" /> <br />
+  [Spanish National Research Council](https://www.csic.es/en), Madrid, Spain <img src="../flags/es.png" style="width:auto;height:15px;" /> <br />
   Project: <i>H2020-WEST-LIFE-675858 – West life: World-wide E-infrastructure for structural biology</i>
   
 * <b>PostDoc @ Norwegian Colour and Visual Computing Laboratory ([Colourlab](http://colorlab.no))</b> (2016 - 2017) <br />
-  Norwegian University of Science and Technology ([NTNU](https://www.ntnu.edu/)), Gjøvik, Norway <img src="../flags/no.png" style="width:auto;height:15px;" /> <br />
+  [Norwegian University of Science and Technology](https://www.ntnu.edu/), Gjøvik, Norway <img src="../flags/no.png" style="width:auto;height:15px;" /> <br />
   Project: <i>IQ-MED: Image Quality enhancement in MEDical diagnosis, monitoring and treatment</i>
 
 * <b>Doctoral @ Centre for Biomedical Image Analysis ([CBIA](https://cbia.fi.muni.cz/))</b> (2010 - 2015) <br />
-  Masaryk University ([MUNI](https://www.muni.cz/en)), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
+  [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Projects: <i>GBP302/12/G157 – Dynamics and Organization of Chromosomes in the Cell Cycle and during Differentiation under Normal and Pathological Conditions <br />GA14-22461S – Development and Study of Methods for Live Cell Quantification</i>
 
 
 Short Term Research Stays
 ======
 * <b>([STSM grant](http://eubias.org/NEUBIAS/mobility-grants/)) @ Faculty of Technical Sciences ([FTN](http://www.ftn.uns.ac.rs/n1386094394/faculty-of-technical-sciences)) </b> (2 weeks in 2019) <br />
-  University of Novi Sad, Novi Sad, Serbia <img src="../flags/sr.png" style="width:auto;height:15px;" /> <br />
+  [University of Novi Sad](https://www.uns.ac.rs/index.php/en/), Novi Sad, Serbia <img src="../flags/sr.png" style="width:auto;height:15px;" /> <br />
   Project: <i>Development and evaluation of 𝛼𝐿𝐵𝑃 − 𝑚𝑎𝑝𝑠 for improved classification in biomedical domain</i>
   
 * <b>([Erasmus Research Internship](https://is.muni.cz/www/172786/certificates/2013_Birmingham.pdf)) @ Digital Media Technology ([DMT](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/digital-technology/)) Lab </b> (5 months in 2013) <br />
-  Birmingham City University, Birmingham, United Kingdom <img src="../flags/uk.png" style="width:auto;height:15px;" /> <br />
+  [Birmingham City University](https://www.bcu.ac.uk/), Birmingham, United Kingdom <img src="../flags/uk.png" style="width:auto;height:15px;" /> <br />
   Project: <i>The Analysis of CT Scans Through Hough Transform</i>
   
   
