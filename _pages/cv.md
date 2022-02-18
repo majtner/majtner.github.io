@@ -80,7 +80,7 @@ Other Work Activities
   
 Participations
 ======
-* <b>The 3rd NEUBIAS Conference</b> ([NEUBIAS](http://eubias.org/NEUBIAS/neubias2020-conference/luxembourg-2019/)), Luxembourg city, Luxembourg <img src="../flags/lu.png" style="width:auto;height:15px;" /> <br /> 
+* <b>The 3rd [NEUBIAS](http://eubias.org/NEUBIAS/neubias2020-conference/luxembourg-2019/) Conference</b>, Luxembourg city, Luxembourg <img src="../flags/lu.png" style="width:auto;height:15px;" /> <br /> 
   <i>Poster presentation</i>
   
 * <b>International Computer Vision Summer School</b> ([ICVSS 2016](http://iplab.dmi.unict.it/icvss2016/)), Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <br />
