@@ -14,23 +14,23 @@ Education
 ======
 * <b>Ph.D. in Image Processing</b> (2010 - 2015) <br /> 
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Doctoral thesis title: <i>[Texture-Based Image Description in Fluorescence Microscopy](https://is.muni.cz/th/dcxrf/thesis.pdf)</i>
+  Doctoral thesis: <i>[Texture-Based Image Description in Fluorescence Microscopy](https://is.muni.cz/th/dcxrf/thesis.pdf)</i>
   
 * <b>Master in Finance</b> (2010 - 2012) <br /> 
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Master thesis title: <i>[The Use of Electronic Signature in Banking](https://is.muni.cz/th/t7oiw/DP.pdf)</i> (in Slovak)
+  Master thesis: <i>[The Use of Electronic Signature in Banking](https://is.muni.cz/th/t7oiw/DP.pdf)</i> (in Slovak)
   
 * <b>Master in Applied Informatics</b> (2008 - 2010) <br /> 
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Master thesis title: <i>[Image Data Compression](https://is.muni.cz/th/ohoal/dp.pdf)</i> (in Slovak)
+  Master thesis: <i>[Image Data Compression](https://is.muni.cz/th/ohoal/dp.pdf)</i> (in Slovak)
   
 * <b>Bachelor in Study of Religions</b> (2014 - 2017) <br />
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Bachelor thesis title: <i>[The Concept of Buddhist Economics from the Study of Religions View](https://is.muni.cz/th/ojtm5/Bc.pdf)</i> (in Slovak)
+  Bachelor thesis: <i>[The Concept of Buddhist Economics from the Study of Religions View](https://is.muni.cz/th/ojtm5/Bc.pdf)</i> (in Slovak)
   
 * <b>Bachelor in Applied Informatics</b> (2005 - 2008) <br /> 
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Bachelor thesis title: <i>[Algorithms for Similarity Query Evaluation](https://is.muni.cz/th/iln9y/Bc.pdf)</i> (in Slovak)
+  Bachelor thesis: <i>[Algorithms for Similarity Query Evaluation](https://is.muni.cz/th/iln9y/Bc.pdf)</i> (in Slovak)
 
 
 Research Positions
