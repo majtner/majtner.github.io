@@ -87,7 +87,7 @@ Participations
   <i>Passed final examination</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2016_ICVSS_exam.pdf))
   
 * <b>Summer School on Image Processing</b> ([SSIP 2015](https://www.inf.u-szeged.hu/ssip/2015/)), Szeged, Hungary <img src="../flags/hu.png" style="width:auto;height:15px;" /> <br />
-  Project title: <i>Microglia cells segmentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2015_SSIP.pdf))
+  Project: <i>Microglia cells segmentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2015_SSIP.pdf))
   
 * <b>Medical Imaging Summer School</b> ([MISS 2014](http://iplab.dmi.unict.it/miss14/)), Favignana, Sicily, Italy <img src="../flags/it.png" style="width:auto;height:15px;" /> <br />
   <i>Poster presentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2014_MISS.pdf))
