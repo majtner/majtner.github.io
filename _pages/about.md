@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since March 2022, I work as a postdoctoral researcher at [Max Planck Institute of Biophysics](https://en.wikipedia.org/wiki/Max_Planck_Institute_of_Biophysics), where we develope novel algorithms for cryo electron tomography and subtomogram averaging.<br />
+Since March 2022, I work as a postdoctoral researcher at [Max Planck Institute of Biophysics](https://en.wikipedia.org/wiki/Max_Planck_Institute_of_Biophysics), where we develop novel algorithms for cryo electron tomography and subtomogram averaging.<br />
 <br />
 Previously, I was affiliated with [Central European Institute of Technology](https://en.wikipedia.org/wiki/Central_European_Institute_of_Technology), where we used machine learning tools to analyse genomic data; with [University of Southern Denmark](https://en.wikipedia.org/wiki/University_of_Southern_Denmark), where we worked on multiple medical image analysis projects; with [Spanish National Research Council](https://en.wikipedia.org/wiki/Spanish_National_Research_Council), where we contributed to the development of the cryo-em image processing framework called [Scipion](http://scipion.i2pc.es/), and with [Norwegian University of Science and Technology](https://en.wikipedia.org/wiki/Norwegian_University_of_Science_and_Technology), where we conducted research on automated melanoma recognition techniques.<br />
 <br /> 
