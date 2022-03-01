@@ -35,6 +35,9 @@ Education
 
 Research Positions
 ======
+* <b>PostDoc @ Max Planck Institute of Biophysics ([MPI](https://www.biophys.mpg.de/en))</b> (since 2022) <br />
+  [Max Planck Society](https://www.mpg.de/de), Frankfurt am Main, Germany <img src="../flags/de.png" style="width:auto;height:15px;" /> <br />
+  
 * <b>PostDoc @ Central European Institute of Technology ([CEITEC](https://www.ceitec.eu))</b> (2020 - 2022) <br />
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Project: <i>Postdoc2@MUNI (No. CZ.02.2.69/0.0/0.0/18_053/0016952)</i>
