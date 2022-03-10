@@ -7,7 +7,7 @@ author_profile: true
 (⋆ denotes equal contribution)
 
 
-<h2>Journal Publications</h2>
+<h2>Journal Articles</h2>
 
 * (J14) <b>T. Majtner</b>, J. B. Brodersen, J. Herp, J. Kjeldsen, M. L. Halling, M. D. Jensen. [A Deep Learning Framework for Autonomous Detection and Classification of Crohn’s Disease Lesions in the Small Bowel and Colon with Capsule Endoscopy](https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1507-4980). <i>Endoscopy International Open</i>, Vol. 9, September 2021, E1361–E1370, Thieme.
 
@@ -38,7 +38,7 @@ author_profile: true
 * (J1) R. Stoklasa, <b>T. Majtner</b>, D. Svoboda. [Efficient k-NN based HEp-2 cells classifier](https://www.sciencedirect.com/science/article/pii/S0031320313003932/). <i>Pattern Recognition</i>, Vol. 47, No. 7, July 2014, pp. 2409–2418, Elsevier.
 
 
-<h2>Conference Publications</h2>
+<h2>Conference Papers</h2>
 
 * (C12) <b>T. Majtner</b>. [HEp-2 Cell Image Recognition with Transferable Cross-Dataset Synthetic Samples](https://link.springer.com/chapter/10.1007/978-3-030-89128-2_21). <i>19th International Conference on Computer Analysis of Images and Patterns (CAIP 2021)</i>, LNCS 13052, pp. 215–225, Springer. 
 
