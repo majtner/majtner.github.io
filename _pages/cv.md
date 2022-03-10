@@ -11,7 +11,7 @@ redirect_from:
 
 
 Education
-=
+======
 * <b>Ph.D. in Image Processing</b> (2010 - 2015) <br /> 
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Doctoral thesis: <i>[Texture-Based Image Description in Fluorescence Microscopy](https://is.muni.cz/th/dcxrf/thesis.pdf)</i>
