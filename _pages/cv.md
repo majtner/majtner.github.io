@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-Education
-======
+<h2>Education</h2>
+
 * <b>Ph.D. in Image Processing</b> (2010 - 2015) <br /> 
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Doctoral thesis: <i>[Texture-Based Image Description in Fluorescence Microscopy](https://is.muni.cz/th/dcxrf/thesis.pdf)</i>
@@ -33,8 +33,8 @@ Education
   Bachelor thesis: <i>[Algorithms for Similarity Query Evaluation](https://is.muni.cz/th/iln9y/Bc.pdf)</i> (in Slovak)
 
 
-Research Positions
-======
+<h2>Research Positions</h2>
+
 * <b>PostDoc @ Max Planck Institute of Biophysics ([MPI](https://www.biophys.mpg.de/en))</b> (since 2022) <br />
   [Max Planck Society](https://www.mpg.de/de), Frankfurt am Main, Germany <img src="../flags/de.png" style="width:auto;height:15px;" /> <br />
   
@@ -59,8 +59,8 @@ Research Positions
   Projects: <i>GBP302/12/G157 – Dynamics and Organization of Chromosomes in the Cell Cycle and during Differentiation under Normal and Pathological Conditions <br />GA14-22461S – Development and Study of Methods for Live Cell Quantification</i>
 
 
-Short Term Research Stays
-======
+<h2>Short Term Research Stays</h2>
+
 * <b>([STSM grant](http://eubias.org/NEUBIAS/mobility-grants/)) @ Faculty of Technical Sciences ([FTN](http://www.ftn.uns.ac.rs/n1386094394/faculty-of-technical-sciences)) </b> (2 weeks in 2019) <br />
   [University of Novi Sad](https://www.uns.ac.rs/index.php/en/), Novi Sad, Serbia <img src="../flags/sr.png" style="width:auto;height:15px;" /> <br />
   Project: <i>Development and evaluation of 𝛼𝐿𝐵𝑃 − 𝑚𝑎𝑝𝑠 for improved classification in biomedical domain</i>
@@ -70,8 +70,8 @@ Short Term Research Stays
   Project: <i>The Analysis of CT Scans Through Hough Transform</i>
   
   
-Other Work Activities
-======
+<h2>Other Work Activities</h2>
+
 * <b>Teaching</b> (2011 - 2012) <br />
   [Faculty of Informatics](https://www.fi.muni.cz/index.html.en), [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
   Subject: <i>Introduction to Programming using C</i> (two semesters supervision of two seminar groups)
@@ -81,8 +81,8 @@ Other Work Activities
   Project: <i>Development of Masaryk University web presentation</i> (part time)
   
   
-Participations
-======
+<h2>Participations</h2>
+
 * <b>The 3rd [NEUBIAS](http://eubias.org/NEUBIAS/neubias2020-conference/luxembourg-2019/) Conference</b>, Luxembourg city, Luxembourg <img src="../flags/lu.png" style="width:auto;height:15px;" /> <br /> 
   <i>Poster presentation</i>
   
@@ -105,14 +105,14 @@ Participations
   <i>Poster presentation</i> ([Certificate](https://is.muni.cz/www/172786/certificates/2011_AMBIA.pdf))
 
 
-Technical Skills
-======
+<h2>Technical Skills</h2>
+
 * <b>Active knowledge</b>: MATLAB, LaTeX, C/C++ <br />
 * <b>Basic knowledge</b>: C#, XML, SQL, Javascript, Python
 
 
-Language Skills
-======
+<h2>Language Skills</h2>
+
 * <b>Slovak</b>: mother tongue <br />
 * <b>Czech</b>: fluent, active - C2 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)) <br />
 * <b>English</b>: fluent, active - C1 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)) <br />
