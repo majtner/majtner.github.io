@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tomáš Majtner’s website"
+title                    : "Tomáš Majtner, academic website"
 title_separator          : "-"
 name                     : &name "Tomáš Majtner"
 description              : &description "Postdoctoral Researcher"
