@@ -40,23 +40,23 @@ redirect_from:
   
 * <b>PostDoc @ Central European Institute of Technology ([CEITEC](https://www.ceitec.eu))</b> (2020 - 2022) <br />
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Project: <i>Postdoc2@MUNI (No. CZ.02.2.69/0.0/0.0/18_053/0016952)</i>
+  Project: <i>Postdoc2@MUNI ([No. CZ.02.2.69/0.0/0.0/18_053/0016952](https://www.muni.cz/en/research/projects/56527))</i>
 
 * <b>PostDoc @ The Mærsk Mc-Kinney Møller Institute ([MMMI](https://www.sdu.dk/en/mmmi))</b> (2018 - 2020) <br />
   [University of Southern Denmark](https://www.sdu.dk/en), Odense, Denmark <img src="../flags/dk.png" style="width:auto;height:15px;" /> <br />
-  Project: <i>EFFICACY – An effective colorectal cancer-screening program based on novel dual-mode wireless endoscopic capsules</i>
+  Project: <i>[EFFICACY](https://www.sdu.dk/en/samarbejde/strategiske_indsatsomraader/velfaerdsinnovation/efficacy) – An effective colorectal cancer-screening program based on novel dual-mode wireless endoscopic capsules</i>
 
 * <b>PostDoc @ [Biocomputing Unit](http://biocomputingunit.es) of Spanish National Centre for Biotechnology ([CNB](http://www.cnb.csic.es/index.php/en/))</b> (2017 - 2018) <br />
   [Spanish National Research Council](https://www.csic.es/en), Madrid, Spain <img src="../flags/es.png" style="width:auto;height:15px;" /> <br />
-  Project: <i>H2020-WEST-LIFE-675858 – West life: World-wide E-infrastructure for structural biology</i>
+  Project: <i>[H2020-WEST-LIFE-675858](https://cordis.europa.eu/project/id/675858) – West life: World-wide E-infrastructure for structural biology</i>
   
 * <b>PostDoc @ Norwegian Colour and Visual Computing Laboratory ([Colourlab](http://colorlab.no))</b> (2016 - 2017) <br />
   [Norwegian University of Science and Technology](https://www.ntnu.edu/), Gjøvik, Norway <img src="../flags/no.png" style="width:auto;height:15px;" /> <br />
-  Project: <i>IQ-MED: Image Quality enhancement in MEDical diagnosis, monitoring and treatment</i>
+  Project: <i>[IQ-MED](https://app.cristin.no/projects/show.jsf?id=536564): Image Quality enhancement in MEDical diagnosis, monitoring and treatment</i>
 
 * <b>Doctoral @ Centre for Biomedical Image Analysis ([CBIA](https://cbia.fi.muni.cz/))</b> (2010 - 2015) <br />
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Projects: <i>GBP302/12/G157 – Dynamics and Organization of Chromosomes in the Cell Cycle and during Differentiation under Normal and Pathological Conditions <br />GA14-22461S – Development and Study of Methods for Live Cell Quantification</i>
+  Projects: <i>[GBP302/12/G157](https://www.muni.cz/en/research/projects/17604) – Dynamics and Organization of Chromosomes in the Cell Cycle and during Differentiation under Normal and Pathological Conditions <br />[GA14-22461S](https://starfos.tacr.cz/en/project/GA14-22461S) – Development and Study of Methods for Live Cell Quantification</i>
 
 
 <h2>Short Term Research Stays</h2>
