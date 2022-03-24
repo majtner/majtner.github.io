@@ -40,7 +40,7 @@ redirect_from:
   
 * <b>PostDoc @ Central European Institute of Technology ([CEITEC](https://www.ceitec.eu))</b> (2020 - 2022) <br />
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
-  Project: <i>Postdoc2@MUNI ([No. CZ.02.2.69/0.0/0.0/18_053/0016952](https://www.muni.cz/en/research/projects/56527))</i>
+  Project: <i>[Postdoc2@MUNI](https://www.muni.cz/en/research/projects/56527) (No. CZ.02.2.69/0.0/0.0/18_053/0016952)</i>
 
 * <b>PostDoc @ The Mærsk Mc-Kinney Møller Institute ([MMMI](https://www.sdu.dk/en/mmmi))</b> (2018 - 2020) <br />
   [University of Southern Denmark](https://www.sdu.dk/en), Odense, Denmark <img src="../flags/dk.png" style="width:auto;height:15px;" /> <br />
