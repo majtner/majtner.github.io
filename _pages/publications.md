@@ -11,6 +11,10 @@ author_profile: true
 
 <table>
 <tr> 
+<td><a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08414-x"><img src="../images/j15.jpg" width="200"></a></td>  
+<td>(J15) E. Chalupová, O. Vaculík, J. Poláček, F. Jozefov, <b>T. Majtner</b> & P. Alexiou. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08414-x">ENNGene: an Easy Neural Network model building tool for Genomics</a>. <i>BMC Genomics</i>, Vol. 23, March 2022, Article 248, BioMed Central.</td>
+</tr>
+<tr> 
 <td><a href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1507-4980"><img src="../images/j14.jpg" width="200"></a></td>  
 <td>(J14) <b>T. Majtner</b>, J. B. Brodersen, J. Herp, J. Kjeldsen, M. L. Halling, M. D. Jensen. <a href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-1507-4980">A Deep Learning Framework for Autonomous Detection and Classification of Crohn’s Disease Lesions in the Small Bowel and Colon with Capsule Endoscopy</a>. <i>Endoscopy International Open</i>, Vol. 9, September 2021, E1361–E1370, Thieme.</td>
 </tr>
