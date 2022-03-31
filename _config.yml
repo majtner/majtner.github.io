@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "photo1.jpg"
-  avatar2          : "photo2.jpg"
+  avatar           : "photo1.png"
+  avatar2          : "photo2.png"
   bio              : ""
   location         : "Frankfurt am Main, Germany"
   employer         :
