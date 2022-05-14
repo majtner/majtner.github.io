@@ -84,7 +84,7 @@ redirect_from:
   
 <h2>Participations</h2>
 * <b>[CZI Imaging](https://chanzuckerberg.com/science/programs-resources/imaging/) 2022 Annual Meeting</b>, Burlingame, California, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
-  <i>Poster presentation</i>
+  <i>Project presentation</i>
   
 * <b>The 3rd [NEUBIAS](http://eubias.org/NEUBIAS/neubias2020-conference/luxembourg-2019/) Conference</b>, Luxembourg city, Luxembourg <img src="../flags/lu.png" style="width:auto;height:15px;" /> <br /> 
   <i>Poster presentation</i>
