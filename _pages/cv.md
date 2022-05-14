@@ -37,6 +37,7 @@ redirect_from:
 
 * <b>PostDoc @ Max Planck Institute of Biophysics ([MPI](https://www.biophys.mpg.de/en))</b> (since 2022) <br />
   [Max Planck Society](https://www.mpg.de/de), Frankfurt am Main, Germany <img src="../flags/de.png" style="width:auto;height:15px;" /> <br />
+  Project: <i>[CZI](https://chanzuckerberg.com/) - Establishing experimental model systems for visual proteomics</i>
   
 * <b>PostDoc @ Central European Institute of Technology ([CEITEC](https://www.ceitec.eu))</b> (2020 - 2022) <br />
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
@@ -82,7 +83,9 @@ redirect_from:
   
   
 <h2>Participations</h2>
-
+* <b>[CZI Imaging](https://chanzuckerberg.com/science/programs-resources/imaging/) 2022 Annual Meeting</b>, Burlingame, California, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
+  <i>Poster presentation</i>
+  
 * <b>The 3rd [NEUBIAS](http://eubias.org/NEUBIAS/neubias2020-conference/luxembourg-2019/) Conference</b>, Luxembourg city, Luxembourg <img src="../flags/lu.png" style="width:auto;height:15px;" /> <br /> 
   <i>Poster presentation</i>
   
