@@ -37,7 +37,7 @@ redirect_from:
 
 * <b>PostDoc @ Max Planck Institute of Biophysics ([MPI](https://www.biophys.mpg.de/en))</b> (since 2022) <br />
   [Max Planck Society](https://www.mpg.de/de), Frankfurt am Main, Germany <img src="../flags/de.png" style="width:auto;height:15px;" /> <br />
-  Project: <i>[Establishing experimental model systems for visual proteomics](https://chanzuckerberg.com/science/programs-resources/imaging/frontiers/establishing-experimental-model-systems-for-visual-proteomics/) (Chan Zuckerberg Initiative)</i>
+  Project: <i>[Establishing Experimental Model Systems for Visual Proteomics](https://chanzuckerberg.com/science/programs-resources/imaging/frontiers/establishing-experimental-model-systems-for-visual-proteomics/) (Chan Zuckerberg Initiative)</i>
   
 * <b>PostDoc @ Central European Institute of Technology ([CEITEC](https://www.ceitec.eu))</b> (2020 - 2022) <br />
   [Masaryk University](https://www.muni.cz/en), Brno, Czech Republic <img src="../flags/cz.png" style="width:auto;height:15px;" /> <br />
