@@ -26,7 +26,7 @@ Previously, I was affiliated with [Central European Institute of Technology](htt
 I received my Ph.D. degree in image processing from [Masaryk University](https://en.wikipedia.org/wiki/Masaryk_University) in 2015. I have online research profiles at [Google Scholar](https://scholar.google.com/citations?user=KcUL5tsAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Tomas-Majtner), [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55547213000), [Web of Science/Publons](https://publons.com/researcher/1945502/tomas-majtner/), and [ORCID](https://orcid.org/0000-0002-5279-8806).
 <table style="border: none;">
 <tr style="border: none;"> 
-<td style="border: none;"><a href="https://cbia.fi.muni.cz/"><img src="../images/cbia.png" width="200"></a></td>
+<td style="border: none;"><a href="https://cbia.fi.muni.cz/"><img src="../images/cbia.png" width="100"></a></td>
 </tr>
 </table>
 My [ha-index](https://www.irif.fr/~haberm//haindex.html) is 93 and my Erdős number is 4 (based on [CSAuthors](https://www.csauthors.net/distance/tomas-majtner/paul-erdos)).
