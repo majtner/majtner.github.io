@@ -83,9 +83,9 @@ author:
   name             : ""
   avatar           : "photo1.png"
   avatar2          : "photo2.png"
-  bio              : ""
+  bio              : "Per aspera ad astra."
   location         : "Frankfurt am Main, Germany"
-  employer         :
+  employer         : "Max Planck Society"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=KcUL5tsAAAAJ"
   email            : "Tomas.Majtner@biophys.mpg.de"
