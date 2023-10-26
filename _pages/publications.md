@@ -11,6 +11,10 @@ author_profile: true
 
 <table>
 <tr> 
+<td><a href="https://www.mdpi.com/2079-7737/12/10/1276"><img src="../images/j16.jpg" width="200"></a></td>  
+<td>(J16) O. Vaculík, E. Chalupová, K. Grešová, <b>T. Majtner</b>, P. Alexiou. <a href="https://www.mdpi.com/2079-7737/12/10/1276">Transfer Learning Allows Accurate RBP Target Site Prediction with Limited Sample Sizes</a>. <i>Biology</i>, Vol. 12, No. 10, October 2023, Article 1276, MDPI.</td>
+</tr>
+<tr> 
 <td><a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08414-x"><img src="../images/j15.jpg" width="200"></a></td>  
 <td>(J15) E. Chalupová, O. Vaculík, J. Poláček, F. Jozefov, <b>T. Majtner</b>, P. Alexiou. <a href="https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-022-08414-x">ENNGene: an Easy Neural Network model building tool for Genomics</a>. <i>BMC Genomics</i>, Vol. 23, March 2022, Article 248, BioMed Central.</td>
 </tr>
