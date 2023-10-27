@@ -137,7 +137,7 @@ author_profile: true
 </tr> 
 </table>
 
-<h2>Non Peer-Reviewed Publications</h2>
+<h2>Non Peer-Reviewed Publications (preprints)</h2>
 
 <table>
 <tr> 
