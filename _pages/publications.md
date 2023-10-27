@@ -141,6 +141,16 @@ author_profile: true
 
 <table>
 <tr> 
+<td><a href="https://www.biorxiv.org/content/10.1101/2023.09.05.556310v1"><img src="../images/biorxiv.jpg" width="75"></a></td>  
+<td>(N3) S. Cruz-León, <b>T. Majtner</b>, P. C. Hoffmann, J. P. Kreysing, M. W. Tuijtel, S. L. Schaefer, K. Geißler, M. Beck, B. Turoňová, G. Hummer. <a href="https://www.biorxiv.org/content/10.1101/2023.09.05.556310v1">High-confidence 3D template matching for cryo-electron tomography</a>. <i>bioRxiv preprint bioRxiv 2023.09.05.556310</i>.
+</td>
+</tr>
+<tr> 
+<td><a href="https://www.biorxiv.org/content/10.1101/2021.11.26.424041v1"><img src="../images/biorxiv.jpg" width="75"></a></td>  
+<td>(N2) E. Chalupová, O. Vaculík, J. Poláček, F. Jozefov, <b>T. Majtner</b>, P. Alexiou. <a href="https://www.biorxiv.org/content/10.1101/2021.11.26.424041v1">ENNGene: an Easy Neural Network model building tool for Genomics</a>. <i>bioRxiv preprint bioRxiv 2021.11.26.424041</i>; <b>Published as (J15)</b>.
+</td>
+</tr> 
+<tr> 
 <td><a href="https://arxiv.org/abs/1808.05071"><img src="../images/arxiv.jpg" width="75"></a></td>  
 <td>(N1) <b>T. Majtner⋆</b>, B. Bajić⋆, S. Yildirim, J. Y. Hardeberg, J. Lindblad, N. Sladoje. <a href="https://arxiv.org/abs/1808.05071">Ensemble of Convolutional Neural Networks for Dermoscopic Images Classification</a>. <i>arXiv preprint arXiv:1808.05071</i>.
 </td>
