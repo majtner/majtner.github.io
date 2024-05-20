@@ -11,6 +11,10 @@ author_profile: true
 
 <table>
 <tr> 
+<td><a href="https://www.nature.com/articles/s41467-024-47839-8"><img src="../images/j17.jpg" width="200"></a></td>  
+<td>(J17) S. Cruz-León, <b>T. Majtner</b>, P. C. Hoffmann, J. P. Kreysing, S. Kehl, M. W. Tuijtel, S. L. Schaefer, K. Geißler, M. Beck, B. Turoňová, G. Hummer. <a href="https://www.nature.com/articles/s41467-024-47839-8">High-confidence 3D template matching for cryo-electron tomography</a>. <i>Nature Communications</i>, Vol. 15, May 2024, Article 3992, Nature Publishing Group.</td>
+</tr>
+<tr> 
 <td><a href="https://www.mdpi.com/2079-7737/12/10/1276"><img src="../images/j16.jpg" width="200"></a></td>  
 <td>(J16) O. Vaculík, E. Chalupová, K. Grešová, <b>T. Majtner</b>, P. Alexiou. <a href="https://www.mdpi.com/2079-7737/12/10/1276">Transfer Learning Allows Accurate RBP Target Site Prediction with Limited Sample Sizes</a>. <i>Biology</i>, Vol. 12, No. 10, October 2023, Article 1276, MDPI.</td>
 </tr>
@@ -32,7 +36,7 @@ author_profile: true
 </tr>
 <tr>
 <td><a href="https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.0705"><img src="../images/j11.jpg" width="200"></a></td> 
-<td>(J11) B. Bajić⋆, <b>T. Majtner⋆</b>, J. Lindblad, N. Sladoje. <a href="https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.0705">Generalized Deep Learning Framework for HEp-2 Image Cell Recognition</a>. <i>IET Image Proccesing</i>, Vol. 14, No. 6, May 2020, pp. 1201–1208, IET.</td>
+<td>(J11) B. Bajić⋆, <b>T. Majtner⋆</b>, J. Lindblad, N. Sladoje. <a href="https://digital-library.theiet.org/content/journals/10.1049/iet-ipr.2019.0705">Generalized Deep Learning Framework for HEp-2 Image Cell Recognition</a>. <i>IET Image Processing</i>, Vol. 14, No. 6, May 2020, pp. 1201–1208, IET.</td>
 </tr> 
 <tr>
 <td><a href="https://journals.iucr.org/d/issues/2019/10/00/ic5108/index.html"><img src="../images/j10.jpg" width="200"></a></td> 
@@ -142,7 +146,7 @@ author_profile: true
 <table>
 <tr> 
 <td><a href="https://www.biorxiv.org/content/10.1101/2023.09.05.556310v1"><img src="../images/biorxiv.jpg" width="75"></a></td>  
-<td>(N3) S. Cruz-León, <b>T. Majtner</b>, P. C. Hoffmann, J. P. Kreysing, M. W. Tuijtel, S. L. Schaefer, K. Geißler, M. Beck, B. Turoňová, G. Hummer. <a href="https://www.biorxiv.org/content/10.1101/2023.09.05.556310v1">High-confidence 3D template matching for cryo-electron tomography</a>. <i>bioRxiv preprint bioRxiv 2023.09.05.556310</i>.
+<td>(N3) S. Cruz-León, <b>T. Majtner</b>, P. C. Hoffmann, J. P. Kreysing, M. W. Tuijtel, S. L. Schaefer, K. Geißler, M. Beck, B. Turoňová, G. Hummer. <a href="https://www.biorxiv.org/content/10.1101/2023.09.05.556310v1">High-confidence 3D template matching for cryo-electron tomography</a>. <i>bioRxiv preprint bioRxiv 2023.09.05.556310</i>; <b>Published as (J17)</b>.
 </td>
 </tr>
 <tr> 
