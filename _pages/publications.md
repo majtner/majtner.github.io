@@ -11,6 +11,10 @@ author_profile: true
 
 <table>
 <tr> 
+<td><a href="https://www.nature.com/articles/s41586-024-08321-z"><img src="../images/j18.jpg" width="200"></a></td>  
+<td>(J18) H. Xing, R. R. E. Rosenkranz, P. Rodriguez-Aliaga, T.-T. Lee, <b>T. Majtner</b>, S. Böhm, B. Turoňová, J. Frydman., M. Beck <a href="https://www.nature.com/articles/s41586-024-08321-z">In situ analysis reveals the TRiC duty cycle and PDCD5 as an open-state cofactor</a>. <i>Nature</i>, Vol. 637, January 2025, pp. 983–990, Nature Publishing Group.</td>
+</tr>
+<tr> 
 <td><a href="https://www.nature.com/articles/s41467-024-47839-8"><img src="../images/j17.jpg" width="200"></a></td>  
 <td>(J17) S. Cruz-León, <b>T. Majtner</b>, P. C. Hoffmann, J. P. Kreysing, S. Kehl, M. W. Tuijtel, S. L. Schaefer, K. Geißler, M. Beck, B. Turoňová, G. Hummer. <a href="https://www.nature.com/articles/s41467-024-47839-8">High-confidence 3D template matching for cryo-electron tomography</a>. <i>Nature Communications</i>, Vol. 15, May 2024, Article 3992, Nature Publishing Group.</td>
 </tr>
@@ -43,8 +47,8 @@ author_profile: true
 <td>(J10) D. Maluenda, <b>T. Majtner</b>, P. Horvath, J. L. Vilas, A. Jiménez-Moreno, J. Mota, E. Ramírez-Aportela, R. Sánchez-García, P. Conesa, L. del Caño, Y. Rancel, Y. Fonseca, M. Martínez, G. Sharov, C. A. García, D. Střelák, R. Melero, R. Marabini, J. M. Carazo, C. O. S. Sorzano. <a href="https://journals.iucr.org/d/issues/2019/10/00/ic5108/index.html">Flexible workflows for on-the-fly electron microscopy single-particle image processing using Scipion</a>. <i>Acta Crystallographica Section D</i>, Vol. 75, No. 10, October 2019, pp. 882–894, IUCr.</td>
 </tr> 
 <tr>
-<td><a href="https://www.hindawi.com/journals/jdr/2019/4583895/"><img src="../images/j09.jpg" width="200"></a></td> 
-<td>(J9) V. Blanes-Vidal, <b>T. Majtner</b>, L. D. Avendaño-Valencia, K. B. Yderstræde, E. S. Nadimi. <a href="https://www.hindawi.com/journals/jdr/2019/4583895/">Invisible Color Variations of Facial Erythema: A Novel Early Marker for Diabetic Complications?</a>. <i>Journal of Diabetes Research</i>, Vol. 2019, September 2019, Article 4583895, Hindawi.</td>
+<td><a href="https://onlinelibrary.wiley.com/doi/full/10.1155/2019/4583895"><img src="../images/j09.jpg" width="200"></a></td> 
+<td>(J9) V. Blanes-Vidal, <b>T. Majtner</b>, L. D. Avendaño-Valencia, K. B. Yderstræde, E. S. Nadimi. <a href="https://onlinelibrary.wiley.com/doi/full/10.1155/2019/4583895">Invisible Color Variations of Facial Erythema: A Novel Early Marker for Diabetic Complications?</a>. <i>Journal of Diabetes Research</i>, Vol. 2019, September 2019, Article 4583895, Wiley Online Library.</td>
 </tr> 
 <tr>
 <td><a href="https://academic.oup.com/bioinformatics/article/35/14/2427/5221010/"><img src="../images/j08.jpg" width="200"></a></td> 
@@ -144,6 +148,11 @@ author_profile: true
 <h2>Non Peer-Reviewed Publications (preprints)</h2>
 
 <table>
+<tr> 
+<td><a href="https://www.biorxiv.org/content/10.1101/2024.12.17.628939v1"><img src="../images/biorxiv.jpg" width="75"></a></td>  
+<td>(N4) <b>T. Majtner</b>, J. P. Kreysing, M. W. Tuijtel, S. Cruz-León, J. Liu, G. Hummer, M. Beck, B. Turoňová. <a href="https://www.biorxiv.org/content/10.1101/2024.12.17.628939v1">cryoTIGER: Deep-Learning Based Tilt Interpolation Generator for Enhanced Reconstruction in Cryo Electron Tomography</a>. <i>bioRxiv preprint bioRxiv 2024.12.17.628939</i>.
+</td>
+</tr>
 <tr> 
 <td><a href="https://www.biorxiv.org/content/10.1101/2023.09.05.556310v1"><img src="../images/biorxiv.jpg" width="75"></a></td>  
 <td>(N3) S. Cruz-León, <b>T. Majtner</b>, P. C. Hoffmann, J. P. Kreysing, M. W. Tuijtel, S. L. Schaefer, K. Geißler, M. Beck, B. Turoňová, G. Hummer. <a href="https://www.biorxiv.org/content/10.1101/2023.09.05.556310v1">High-confidence 3D template matching for cryo-electron tomography</a>. <i>bioRxiv preprint bioRxiv 2023.09.05.556310</i>; <b>Published as (J17)</b>.
