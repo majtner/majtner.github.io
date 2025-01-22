@@ -83,7 +83,7 @@ redirect_from:
   
   
 <h2>Participations</h2>
-* <b>[CZI Imaging](https://chanzuckerberg.com/science/programs-resources/imaging/): Life Illuminated Meeting</b>, Austin, Texas, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
+* <b>[CZI Imaging the Future 2024](https://chanzuckerberg.com/science/programs-resources/imaging/): Life Illuminated Meeting</b>, Austin, Texas, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
   <i>Poster presentation</i>
   
 * <b>[CZI Imaging](https://chanzuckerberg.com/science/programs-resources/imaging/) 2022 Annual Meeting</b>, Burlingame, California, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
