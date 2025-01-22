@@ -45,7 +45,7 @@ redirect_from:
 
 * <b>PostDoc @ The Mærsk Mc-Kinney Møller Institute ([MMMI](https://www.sdu.dk/en/mmmi))</b> (2018 - 2020) <br />
   [University of Southern Denmark](https://www.sdu.dk/en), Odense, Denmark <img src="../flags/dk.png" style="width:auto;height:15px;" /> <br />
-  Project: <i>[EFFICACY](https://www.sdu.dk/en/samarbejde/strategiske_indsatsomraader/velfaerdsinnovation/efficacy) – An effective colorectal cancer-screening program based on novel dual-mode wireless endoscopic capsules</i>
+  Project: <i>EFFICACY – An effective colorectal cancer-screening program based on novel dual-mode wireless endoscopic capsules</i>
 
 * <b>PostDoc @ [Biocomputing Unit](http://biocomputingunit.es) of Spanish National Centre for Biotechnology ([CNB](http://www.cnb.csic.es/index.php/en/))</b> (2017 - 2018) <br />
   [Spanish National Research Council](https://www.csic.es/en), Madrid, Spain <img src="../flags/es.png" style="width:auto;height:15px;" /> <br />
