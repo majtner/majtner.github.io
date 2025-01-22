@@ -83,6 +83,9 @@ redirect_from:
   
   
 <h2>Participations</h2>
+* <b>[CZI Imaging](https://chanzuckerberg.com/science/programs-resources/imaging/): Life Illuminated Meeting</b>, Austin, Texas, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
+  <i>Poster presentation</i>
+  
 * <b>[CZI Imaging](https://chanzuckerberg.com/science/programs-resources/imaging/) 2022 Annual Meeting</b>, Burlingame, California, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
   <i>Project presentation</i>
   
@@ -110,8 +113,8 @@ redirect_from:
 
 <h2>Technical Skills</h2>
 
-* <b>Active knowledge</b>: MATLAB, LaTeX, C/C++ <br />
-* <b>Basic knowledge</b>: C#, XML, SQL, Javascript, Python
+* <b>Active knowledge</b>: Python, MATLAB, LaTeX <br />
+* <b>Basic knowledge</b>: C/C++, SQL
 
 
 <h2>Language Skills</h2>
@@ -119,5 +122,5 @@ redirect_from:
 * <b>Slovak</b>: mother tongue <br />
 * <b>Czech</b>: fluent, active - C2 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)) <br />
 * <b>English</b>: fluent, active - C1 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)) <br />
-* <b>German</b>: intermediate, passive - A2-B1 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)) <br />
-* <b>Danish</b>: intermediate, passive - A2-B1 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages))
+* <b>German</b>: beginner, passive - A2 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages)) <br />
+* <b>Spanish</b>: beginner, passive - A2 ([CEFR rank](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages))
