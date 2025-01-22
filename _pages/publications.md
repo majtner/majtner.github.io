@@ -59,8 +59,8 @@ author_profile: true
 <td>(J7) <b>T. Majtner</b>, S. Yildirim-Yayilgan, J. Y. Hardeberg. <a href="https://link.springer.com/article/10.1007/s11042-018-6734-6/">Optimised deep learning features for improved melanoma detection</a>. <i>Multimedia Tools and Applications</i>, Vol. 78, No. 9, May 2019, pp. 11883–11903, Springer.</td>
 </tr>  
 <tr>
-<td><a href="https://journals.iucr.org/f/issues/2019/01/00/aq5003/index.html"><img src="../images/j06.jpg" width="200"></a></td> 
-<td>(J6) C. O. S. Sorzano, A. Jiménez, J. Mota, J. L. Vilas, D. Maluenda, M. Martínez, E. Ramírez-Aportela, <b>T. Majtner</b>, J. Segura, R. Sánchez-García, Y. Rancel, L. del Caño, P. Conesa, R. Melero, S. Jonić, J. Vargas, F. Cazals, Z. Freuberg, J. Krieger, I. Bahar, R. Marabini, J. M. Carazo. <a href="https://journals.iucr.org/f/issues/2019/01/00/aq5003/index.html">Survey of the analysis of continuous conformational variability of biological macromolecules by electron microscopy</a>. <i>Acta Crystallographica Section F</i>, Vol. 75, No. 1, January 2019, pp. 19–32, IUCr.</td>
+<td><a href="https://onlinelibrary.wiley.com/doi/abs/10.1107/S2053230X18015108"><img src="../images/j06.jpg" width="200"></a></td> 
+<td>(J6) C. O. S. Sorzano, A. Jiménez, J. Mota, J. L. Vilas, D. Maluenda, M. Martínez, E. Ramírez-Aportela, <b>T. Majtner</b>, J. Segura, R. Sánchez-García, Y. Rancel, L. del Caño, P. Conesa, R. Melero, S. Jonić, J. Vargas, F. Cazals, Z. Freuberg, J. Krieger, I. Bahar, R. Marabini, J. M. Carazo. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1107/S2053230X18015108">Survey of the analysis of continuous conformational variability of biological macromolecules by electron microscopy</a>. <i>Acta Crystallographica Section F</i>, Vol. 75, No. 1, January 2019, pp. 19–32, IUCr.</td>
 </tr>  
 <tr>
 <td><a href="https://www.sciencedirect.com/science/article/pii/S1047847718302740"><img src="../images/j05.jpg" width="200"></a></td> 
