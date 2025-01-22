@@ -66,7 +66,7 @@ redirect_from:
   [University of Novi Sad](https://www.uns.ac.rs/index.php/en/), Novi Sad, Serbia <img src="../flags/sr.png" style="width:auto;height:15px;" /> <br />
   Project: <i>Development and evaluation of 𝛼𝐿𝐵𝑃 − 𝑚𝑎𝑝𝑠 for improved classification in biomedical domain</i>
   
-* <b>[Erasmus Research Internship](https://is.muni.cz/www/172786/certificates/2013_Birmingham.pdf) @ Digital Media Technology ([DMT](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/digital-technology/)) Lab </b> (5 months in 2013) <br />
+* <b>Erasmus Research Internship @ Digital Media Technology ([DMT](http://www.bcu.ac.uk/computing-engineering-and-the-built-environment/research/digital-technology/)) Lab </b> (5 months in 2013) <br />
   [Birmingham City University](https://www.bcu.ac.uk/), Birmingham, United Kingdom <img src="../flags/uk.png" style="width:auto;height:15px;" /> <br />
   Project: <i>The Analysis of CT Scans Through Hough Transform</i>
   
