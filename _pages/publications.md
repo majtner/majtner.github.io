@@ -149,6 +149,11 @@ author_profile: true
 
 <table>
 <tr> 
+<td><a href="https://www.biorxiv.org/content/10.1101/2025.03.13.642992v1"><img src="../images/biorxiv.jpg" width="75"></a></td>  
+<td>(N5) <b>T. Majtner</b>, B. Turoňová. <a href="https://www.biorxiv.org/content/10.1101/2025.03.13.642992v1">Automated Removal of Corrupted Tilts in Cryo-Electron Tomography</a>. <i>bioRxiv preprint bioRxiv 2025.03.13.642992</i>.
+</td>
+</tr>
+<tr> 
 <td><a href="https://www.biorxiv.org/content/10.1101/2024.12.17.628939v1"><img src="../images/biorxiv.jpg" width="75"></a></td>  
 <td>(N4) <b>T. Majtner</b>, J. P. Kreysing, M. W. Tuijtel, S. Cruz-León, J. Liu, G. Hummer, M. Beck, B. Turoňová. <a href="https://www.biorxiv.org/content/10.1101/2024.12.17.628939v1">cryoTIGER: Deep-Learning Based Tilt Interpolation Generator for Enhanced Reconstruction in Cryo Electron Tomography</a>. <i>bioRxiv preprint bioRxiv 2024.12.17.628939</i>.
 </td>
