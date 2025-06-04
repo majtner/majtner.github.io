@@ -83,6 +83,7 @@ redirect_from:
   
   
 <h2>Participations</h2>
+
 * <b>[CZI Visual Proteomics Showcase 2025](https://chanzuckerberg.com/science/programs-resources/imaging/)</b>, Redwood City, California, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
   <i>Project presentation</i>
   
