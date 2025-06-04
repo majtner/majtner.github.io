@@ -84,7 +84,7 @@ redirect_from:
   
 <h2>Participations</h2>
 
-* <b>[CZI Visual Proteomics Showcase 2025](https://chanzuckerberg.com/science/programs-resources/imaging/)</b>, Redwood City, California, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
+* <b>[CZI Visual Proteomics](https://chanzuckerberg.com/science/programs-resources/imaging/) 2025 Showcase</b>, Redwood City, California, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
   <i>Project presentation</i>
   
 * <b>[CZI Imaging the Future 2024](https://chanzuckerberg.com/science/programs-resources/imaging/): Life Illuminated Meeting</b>, Austin, Texas, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
