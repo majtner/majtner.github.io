@@ -83,6 +83,9 @@ redirect_from:
   
   
 <h2>Participations</h2>
+* <b>[CZI Visual Proteomics Showcase 2025](https://chanzuckerberg.com/science/programs-resources/imaging/)</b>, Redwood City, California, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
+  <i>Project presentation</i>
+  
 * <b>[CZI Imaging the Future 2024](https://chanzuckerberg.com/science/programs-resources/imaging/): Life Illuminated Meeting</b>, Austin, Texas, United States <img src="../flags/us.png" style="width:auto;height:15px;" /> <br /> 
   <i>Poster presentation</i>
   
@@ -113,8 +116,8 @@ redirect_from:
 
 <h2>Technical Skills</h2>
 
-* <b>Active knowledge</b>: Python, MATLAB, LaTeX <br />
-* <b>Basic knowledge</b>: C/C++, SQL
+* <b>Active knowledge</b>: Python, LaTeX <br />
+* <b>Basic knowledge</b>: C/C++, SQL, MATLAB
 
 
 <h2>Language Skills</h2>
