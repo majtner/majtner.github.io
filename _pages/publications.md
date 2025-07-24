@@ -11,8 +11,12 @@ author_profile: true
 
 <table>
 <tr> 
+<td><a href="https://www.sciencedirect.com/science/article/pii/S259015242500011X"><img src="../images/j19.jpg" width="200"></a></td>  
+<td>(J19) <b>T. Majtner</b>, B. Turoňová. <a href="https://www.sciencedirect.com/science/article/pii/S259015242500011X">Automated Removal of Corrupted Tilts in Cryo-Electron Tomography</a>. <i>Journal of Structural Biology: X</i>, Vol. 12, December 2025, Article 100130, Elsevier.</td>
+</tr>
+<tr> 
 <td><a href="https://www.nature.com/articles/s41586-024-08321-z"><img src="../images/j18.jpg" width="200"></a></td>  
-<td>(J18) H. Xing, R. R. E. Rosenkranz, P. Rodriguez-Aliaga, T.-T. Lee, <b>T. Majtner</b>, S. Böhm, B. Turoňová, J. Frydman., M. Beck <a href="https://www.nature.com/articles/s41586-024-08321-z">In situ analysis reveals the TRiC duty cycle and PDCD5 as an open-state cofactor</a>. <i>Nature</i>, Vol. 637, January 2025, pp. 983–990, Nature Publishing Group.</td>
+<td>(J18) H. Xing, R. R. E. Rosenkranz, P. Rodriguez-Aliaga, T.-T. Lee, <b>T. Majtner</b>, S. Böhm, B. Turoňová, J. Frydman., M. Beck. <a href="https://www.nature.com/articles/s41586-024-08321-z">In situ analysis reveals the TRiC duty cycle and PDCD5 as an open-state cofactor</a>. <i>Nature</i>, Vol. 637, January 2025, pp. 983–990, Nature Publishing Group.</td>
 </tr>
 <tr> 
 <td><a href="https://www.nature.com/articles/s41467-024-47839-8"><img src="../images/j17.jpg" width="200"></a></td>  
@@ -155,7 +159,7 @@ author_profile: true
 </tr>
 <tr> 
 <td><a href="https://www.biorxiv.org/content/10.1101/2025.03.13.642992v1"><img src="../images/biorxiv.jpg" width="75"></a></td>  
-<td>(N5) <b>T. Majtner</b>, B. Turoňová. <a href="https://www.biorxiv.org/content/10.1101/2025.03.13.642992v1">Automated Removal of Corrupted Tilts in Cryo-Electron Tomography</a>. <i>bioRxiv preprint bioRxiv 2025.03.13.642992</i>.
+<td>(N5) <b>T. Majtner</b>, B. Turoňová. <a href="https://www.biorxiv.org/content/10.1101/2025.03.13.642992v1">Automated Removal of Corrupted Tilts in Cryo-Electron Tomography</a>. <i>bioRxiv preprint bioRxiv 2025.03.13.642992</i>; <b>Published as (J19)</b>.
 </td>
 </tr>
 <tr> 
