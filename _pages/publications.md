@@ -153,6 +153,11 @@ author_profile: true
 
 <table>
 <tr> 
+<td><a href="https://www.biorxiv.org/content/10.1101/2025.08.20.671201v1"><img src="../images/biorxiv.jpg" width="75"></a></td>  
+<td>(N7) M. W. Tuijtel, <b>T. Majtner</b>, B. Turoňová, M. Beck. <a href="https://www.biorxiv.org/content/10.1101/2025.08.20.671201v1">Optimal tilt-increment for cryo-ET</a>. <i>bioRxiv preprint bioRxiv 2025.08.20.671201</i>.
+</td>
+</tr>
+<tr> 
 <td><a href="https://www.biorxiv.org/content/10.1101/2025.04.09.647790v1"><img src="../images/biorxiv.jpg" width="75"></a></td>  
 <td>(N6) J. P. Kreysing, S. Cruz-León, J. Betz, C. Penzo, <b>T. Majtner</b>, M. Schreiber, B. Turoňová, M. Lusic, G. Hummer, M. Beck. <a href="https://www.biorxiv.org/content/10.1101/2025.04.09.647790v1">Molecular architecture of heterochromatin at the nuclear periphery of primary human cells</a>. <i>bioRxiv preprint bioRxiv 2025.04.09.647790</i>.
 </td>
