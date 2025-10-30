@@ -31,4 +31,4 @@ I received my Ph.D. degree in image processing from [Masaryk University](https:/
 </table>
 My [ha-index](https://www.irif.fr/~haberm//haindex.html) is 93 and my Erdős number is 4 (based on [CSAuthors](https://www.csauthors.net/distance/tomas-majtner/paul-erdos)).
 
-<a href="https://mapmyvisitors.com/web/1c0cw"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=9GvE8YCtT_AcAezl-GgOmaMGZVdKLmwfshldhVSFhTE&cl=ffffff" /></a>
+<a href='https://mapmyvisitors.com/web/1c0cw'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=080808&w=a&t=tt&d=9GvE8YCtT_AcAezl-GgOmaMGZVdKLmwfshldhVSFhTE&co=ffffff&ct=808080'/></a>
