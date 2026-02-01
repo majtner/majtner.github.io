@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tomáš Majtner"
 title_separator          : "-"
 name                     : &name "Tomáš Majtner"
-description              : &description "Postdoctoral Researcher"
+description              : &description "Senior Computer Vision Researcher"
 url                      : https://majtner.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "majtner.github.io"
@@ -84,7 +84,7 @@ author:
   avatar           : "photo1.png"
   avatar2          : "photo2.png"
   bio              : "“A ship in harbour is safe, but that is not what ships are built for.” John A Shedd (1928)"
-  location         : "Frankfurt am Main, Germany"
+  location         : "Vienna, Austria"
   employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=KcUL5tsAAAAJ"
