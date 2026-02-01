@@ -35,7 +35,10 @@ redirect_from:
 
 <h2>Research Positions</h2>
 
-* <b>PostDoc @ Max Planck Institute of Biophysics ([MPI](https://www.biophys.mpg.de/en))</b> (since 2022) <br />
+* <b>Senior Computer Vision Researcher @ [Imagetwin](https://imagetwin.ai/)</b> (since 2026) <br />
+  Vienna, Austria <img src="../flags/at.png" style="width:auto;height:15px;" /> <br />
+
+* <b>PostDoc @ Max Planck Institute of Biophysics ([MPI](https://www.biophys.mpg.de/en))</b> (2022 - 2026) <br />
   [Max Planck Society](https://www.mpg.de/de), Frankfurt am Main, Germany <img src="../flags/de.png" style="width:auto;height:15px;" /> <br />
   Project: <i>[Establishing Experimental Model Systems for Visual Proteomics](https://chanzuckerberg.com/science/programs-resources/imaging/frontiers/establishing-experimental-model-systems-for-visual-proteomics/) (Chan Zuckerberg Initiative)</i>
   
