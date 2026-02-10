@@ -35,7 +35,7 @@ redirect_from:
 
 <h2>Research Positions</h2>
 
-* <b>Senior Computer Vision Researcher @ [Imagetwin](https://imagetwin.ai/)</b> (since 2026) <br />
+* <b>Senior Computer Vision Researcher @ [ImageTwin AI GmbH](https://imagetwin.ai/)</b> (since 2026) <br />
   Vienna, Austria <img src="../flags/at.png" style="width:auto;height:15px;" /> <br />
 
 * <b>PostDoc @ Max Planck Institute of Biophysics ([MPI](https://www.biophys.mpg.de/en))</b> (2022 - 2026) <br />
