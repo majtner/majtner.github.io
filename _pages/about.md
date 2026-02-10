@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Since February 2026, I have been working at [Imagetwin](https://imagetwin.ai/), where I focus on detecting integrity issues in figures published in scientific articles.
+Since February 2026, I have been working at [ImageTwin AI GmbH](https://imagetwin.ai/), where I focus on detecting integrity issues in figures published in scientific articles.
 <table style="border: none;">
 <tr style="border: none;"> 
 <td style="border: none;"><a href="https://imagetwin.ai/"><img src="../images/Imagetwin_Logo_lime.png" width="160"></a></td>
